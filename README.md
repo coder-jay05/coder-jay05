@@ -1,4 +1,4 @@
-
+![logo](https://github.com/coder-jay05/coder-jay05/blob/main/--%20(1).png)
 <h1 align="center">Hi 👋, I'm Jayprakash Mahato</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
